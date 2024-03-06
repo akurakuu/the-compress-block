@@ -1,0 +1,27 @@
+{
+    "itemGroup.compressblock": "Compressed Blocks",
+
+    "item.compressblock.compressed_hay_block_9x": "9x compressed hay block",
+    "block.compressblock.compressed_hay_block_9x": "9x compressed hay block",
+
+    "item.compressblock.compressed_hay_block_81x": "81x compressed hay block",
+    "block.compressblock.compressed_hay_block_81x": "81x compressed hay block",
+    
+    "item.compressblock.compressed_hay_block_729x": "729x compressed hay block",
+    "block.compressblock.compressed_hay_block_729x": "729x compressed hay block",
+    
+    "item.compressblock.compressed_hay_block_6561x": "6561x compressed hay block",
+    "block.compressblock.compressed_hay_block_6561x": "6561x compressed hay block",
+    
+    "item.compressblock.compressed_hay_block_59049x": "59049x compressed hay block",
+    "block.compressblock.compressed_hay_block_59049x": "59049x compressed hay block",
+    
+    "item.compressblock.compressed_hay_block_531441x": "531441x compressed hay block",
+    "block.compressblock.compressed_hay_block_531441x": "531441x compressed hay block",
+    
+    "item.compressblock.compressed_hay_block_4782969x": "4782969x compressed hay block",
+    "block.compressblock.compressed_hay_block_4782969x": "4782969x compressed hay block",
+    
+    "item.compressblock.compressed_hay_block_43046721x": "43046721x compressed hay block",
+    "block.compressblock.compressed_hay_block_43046721x": "43046721x compressed hay block"
+}

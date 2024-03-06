@@ -1,0 +1,27 @@
+{
+    "itemGroup.compressblock": "Compressed Blocks",
+
+    "item.compressblock.compressed_hay_block_9x": "9倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_9x": "9倍圧縮ブロック",
+
+    "item.compressblock.compressed_hay_block_81x": "81倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_81x": "81倍圧縮ブロック",
+    
+    "item.compressblock.compressed_hay_block_729x": "729倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_729x": "729倍圧縮ブロック",
+    
+    "item.compressblock.compressed_hay_block_6561x": "6561倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_6561x": "6561倍圧縮ブロック",
+    
+    "item.compressblock.compressed_hay_block_59049x": "59049倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_59049x": "59049倍圧縮ブロック",
+    
+    "item.compressblock.compressed_hay_block_531441x": "532441倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_531441x": "532441倍圧縮ブロック",
+    
+    "item.compressblock.compressed_hay_block_4782969x": "4782969倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_4782969x": "4782969倍圧縮ブロック",
+    
+    "item.compressblock.compressed_hay_block_43046721x": "43046721倍圧縮ブロック",
+    "block.compressblock.compressed_hay_block_43046721x": "43046721倍圧縮ブロック"
+}

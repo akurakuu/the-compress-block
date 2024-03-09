@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    "key": {
+        "A": {
+            "item": "compressblock:compressed_hay_block_9x"
+        }
+    },
+    "result": {
+        "item": "compressblock:compressed_hay_block_81x",
+        "count": 1
+    }
+}
